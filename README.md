@@ -1,7 +1,7 @@
 # Election Analysis with Python
 
 ## Overview of Election Audit
-A Colorado Board of Elections employee has given the following tasks to complete the election audit of a recent local congressional election:
+In this project, we were tasked with using Python to complete the election audit of a recent local congressional election:
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -13,7 +13,7 @@ A Colorado Board of Elections employee has given the following tasks to complete
 8. Determine which county had the largest voter turnout.
 
 ## Election-Audit Results
-The analysis of the election show that:
+The analysis of the election shows that:
 - There were 369,711 votes cast in the election.
 - The number of votes and percentage of total votes for each county were:
   - Jefferson: 10.5% (38,855)
